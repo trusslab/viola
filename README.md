@@ -45,11 +45,11 @@ Change your current directory to the android system kernel directory and check o
 
 ```sh
 cd ~/android/system/kernel/samsung/tuna
-git add remote viola_origin https://github.com/saeedm92/Viola_tuna_kernel.git
+git add remote viola_origin https://github.com/trusslab/Viola_tuna_kernel.git
 git checkout Viola_tuna_v1
 
 cd ~/android/system/external/tinyalsa
-git add remote viola_origin https://github.com/saeedm92/Viola_tinyalsa.git
+git add remote viola_origin https://github.com/trusslab/Viola_tinyalsa.git
 git checkout Viola_tinyalsa_v1
 ```
 
@@ -79,7 +79,7 @@ Change your current directory to the android system kernel directory and check o
 
 ```sh
 cd ~/android/system/kernel/lge/hammerhead
-git add remote viola_origin https://github.com/saeedm92/Viola_hammerhead_kernel.git
+git add remote viola_origin https://github.com/trusslab/Viola_hammerhead_kernel.git
 git checkout Viola_hammerhead_v1
 ```
 
@@ -98,7 +98,7 @@ The invariant implemented on Nexus5 is the _camera -> vibrator_ invariant. You c
 Clone the source files with the command below:
 
 ```sh
-git clone https://github.com/saeedm92/Viola_InvariantChecks.git
+git clone https://github.com/trusslab/Viola_InvariantChecks.git
 ```
 
 ## 3.2 Generating Checks
