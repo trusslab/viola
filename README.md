@@ -1,7 +1,7 @@
 
 Saeed Mirzamohammadi, Ardalan Amiri Sani, "Viola: Trustworthy Sensor Notifications for Enhanced Privacy on Mobile Systems
 " in Proc. ACM MobiSys, June 2016
-([PDF](http://www.ics.uci.edu/~saeed/Mirzamohammadi_MobiSys16.pdf)) [Link to the video](https://www.youtube.com/watch?v=przL6tbIIgw).
+([PDF](http://www.ics.uci.edu/~saeed/Mirzamohammadi_MobiSys16.pdf)) ([Link to the video](https://www.youtube.com/watch?v=przL6tbIIgw)).
 
 # People
 
