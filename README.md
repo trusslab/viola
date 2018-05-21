@@ -108,4 +108,6 @@ Follow the instructions on README file to build the Coq files and to generate th
 
 You can also go over the proof files using the Coq Proof Assistant: https://coq.inria.fr/download
 
+# Acknowledgments
 
+The work was supported in part by NSF Award #1617513.
